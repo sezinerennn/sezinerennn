@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Sezin Eren
 Computer Engineer (ITU - Istanbul Teknical University)
 
--🟢 Available for freelance projects
+🟢 Available for freelance projects
 
 ---
 
