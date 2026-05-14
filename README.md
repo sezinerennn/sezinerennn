@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 
 ## Sezin Eren
 Computer Engineer (ITU - Istanbul Teknical University)
-🟢 Available for freelance projects
+
+-🟢 Available for freelance projects
+
 ---
+
 ## About Me
-I have extensive experience developing, optimizing, and managing software and automation solutions across different industries. I am passionate about backend development, data science, and machine learning. I continuously improve my technical skills through hands-on projects involving Python, C#, SQL, data analysis, predictive analytics, and machine learning models.
+- I have extensive experience developing, optimizing, and managing software and automation solutions across different industries. I am passionate about backend development, data science, and machine learning. I continuously improve my technical skills through hands-on projects involving Python, C#, SQL, data analysis, predictive analytics, and machine learning models.
+
 ---
+
 ## Skills & Interests
 - Data Science & Machine Learning
 - Backend Development
@@ -27,10 +32,15 @@ I have extensive experience developing, optimizing, and managing software and au
 - Predictive Analytics
 - Scalable Backend Architectures
 - Intelligent Data-Driven Solutions
+
 ---
+
 ## Projects
-Currently working on exciting projects. Stay tuned for updates!
+
+- Currently working on exciting projects. Stay tuned for updates!
+
 ---
+
 ## Contact
 - 📧 Email: eren.sezin@gmail.com  
 - 🔗 LinkedIn: [in/sezin-eren-463781186](www.linkedin.com/in/sezin-eren-463781186)  
