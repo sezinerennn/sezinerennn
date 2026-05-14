@@ -21,7 +21,7 @@ Computer Engineer (ITU - Istanbul Teknical University)
 ---
 
 ## About Me
-- I have extensive experience developing, optimizing, and managing software and automation solutions across different industries. I am passionate about backend development, data science, and machine learning. I continuously improve my technical skills through hands-on projects involving Python, C#, SQL, data analysis, predictive analytics, and machine learning models.
+I have extensive experience developing, optimizing, and managing software and automation solutions across different industries. I am passionate about backend development, data science, and machine learning. I continuously improve my technical skills through hands-on projects involving Python, C#, SQL, data analysis, predictive analytics, and machine learning models.
 
 ---
 
@@ -37,10 +37,10 @@ Computer Engineer (ITU - Istanbul Teknical University)
 
 ## Projects
 
-- Currently working on exciting projects. Stay tuned for updates!
+Currently working on exciting projects. Stay tuned for updates!
 
 ---
 
 ## Contact
-- 📧 Email: eren.sezin@gmail.com  
-- 🔗 LinkedIn: [in/sezin-eren-463781186](www.linkedin.com/in/sezin-eren-463781186)  
+📧 Email: eren.sezin@gmail.com  
+🔗 LinkedIn: [in/sezin-eren-463781186](www.linkedin.com/in/sezin-eren-463781186)  
